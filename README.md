@@ -1,1 +1,1 @@
-# fichiers_d_exercice_javascript_essentiel
+# Fichiers_d_exercice_javascript_essentiel
